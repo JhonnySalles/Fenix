@@ -29,7 +29,15 @@ Projetado para realizar simples lançamentos e controle de venda dos produtos.
 
 Necessário realizar préviamente a instalação do [java na versão 15](https://www.java.com/pt-BR/).
 Pode-se utilizar qualquer IDE de desenvolvimento de sua escolha, recomenda-se a versão 2020-12 do [eclipse](https://www.eclipse.org/downloads/).
-Utilizado no projeto o mavem para controle e gerenciamento das dependências.
+Utilizado o mavem para controle e gerenciamento das dependências.
+
+Utiliza as seguintes tecnologias:
+1. Java Fx - Projetado as telas com o JavaFx.
+2. [Animate Fx](https://github.com/Typhon0/AnimateFX) - Biblioteca utilizada para as transições e animações.
+3. [JFoenix](https://github.com/sshahine/JFoenix) - Componentes visuais que implementam o material designe.
+4. JUnit 5 - Projetado para realizar testes automatizado.
+5. Hibernate - Persistência das classes no banco de dados.
+6. FlywayDB - Versionamento do banco de dados.
 
 ## Histórico de Release
 
@@ -66,4 +74,4 @@ Distribuido sobre a licença GPL. Veja o arquivo ``COPYING`` para maiores inform
 
 ## Licença
 
-[GPL-3.0 License](https://github.com/JhonnySalles/Fenix/blob/master/COPYING)
+[GPL-3.0 License](https://github.com/JhonnySalles/Fenix/blob/Colab/Fenix/COPYING)
