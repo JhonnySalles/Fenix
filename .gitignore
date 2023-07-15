@@ -43,3 +43,12 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 *.properties
+
+Banco de dados/
+*.*
+
+MangaExtractor/
+*.*
+
+MangaExtractor - Copia/
+*.*
